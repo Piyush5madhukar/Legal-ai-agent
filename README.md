@@ -226,3 +226,9 @@ Possible Improvements
 ---
  Conclusion  
 This multi-agent system efficiently retrieves, summarizes, and responds to legal queries. With further optimizations, it can provide faster and more accurate legal assistance. 
+
+![Image](https://github.com/user-attachments/assets/02ec2c01-1e73-4c6d-a23c-a71102c14d6a)
+
+![Image](https://github.com/user-attachments/assets/53bbaa0b-e1bd-4a9f-9dc5-a948952233d5)
+
+![Image](https://github.com/user-attachments/assets/0006e310-307e-4d29-8487-bce0840dbe29)
