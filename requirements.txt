@@ -1,0 +1,19 @@
+faiss-cpu
+numpy
+pypdf2
+streamlit
+sentence-transformers
+langchain
+transformers
+pydantic
+google-generativeai
+python-dotenv
+requests
+langchain_google_genai
+langchain-community
+torch
+fastapi
+uvicorn==0.21.1
+# concurrent.futures==0.1
+
+
